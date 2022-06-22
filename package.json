@@ -1,0 +1,17 @@
+{
+  "name": "structy",
+  "version": "1.0.0",
+  "description": "Some of my Structy solutions",
+  "main": "",
+  "scripts": {
+    "test": "mocha tests",
+    "coverage": "nyc npm run test"
+  },
+  "author": "M D Stickley",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "nyc": "^15.1.0"
+  }
+}
